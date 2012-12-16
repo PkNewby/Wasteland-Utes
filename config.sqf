@@ -1,4 +1,3 @@
-
 //	@file Version: 1.0
 //	@file Name: config.sqf
 //	@file Author: [404] Deadbeat
@@ -46,6 +45,7 @@ weaponsArray = [
     	["M4A1 CCO","M4A1_Aim",100],
     	["M1014","M1014",50],
     	["Saiga 12K","Saiga12K",100],
+	["m16a4_acg","M16 Acog",200],
     	["M249","M249_EP1",250],
     	["Mk_48 Mod","Mk_48",250],
     	["M240","M240",250],
