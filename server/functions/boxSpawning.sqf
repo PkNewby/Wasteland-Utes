@@ -10,7 +10,8 @@ private ["_counter","_pos","_markerName","_marker","_hint","_newpos","_countActu
 
 _counter = 0;
 _countActual = 0;
-_boxes = ["USBasicWeaponsBox","RUBasicWeaponsBox","GERBasicWeapons_EP1","USBasicWeapons_EP1","TKBasicWeapons_EP1","SpecialWeaponsBox","Ammobox_PMC"];
+_boxes = ["USBasicWeaponsBox","RUBasicWeaponsBox","GERBasicWeapons_EP1"];
+// ,"USBasicWeapons_EP1","TKBasicWeapons_EP1","SpecialWeaponsBox","Ammobox_PMC"
 
 diag_log format["Weapon Caches Spawning"];
 
